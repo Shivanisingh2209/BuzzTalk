@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073181062662",
+    "project_id": "device-streaming-0659a598",
+    "storage_bucket": "device-streaming-0659a598.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073181062662:android:51ae30f09c32d6bdd6b587",
+        "android_client_info": {
+          "package_name": "com.example.buzz_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHtsPoI99obx83iclIxcLj3VdFW6F_Pmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
